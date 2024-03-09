@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+       android:id="@+id/workouts"
+        android:enabled="true"
+        android:icon="@drawable/ic_workout"
+        android:title="Workouts"/>
+
+    <item
+        android:id="@+id/schedule"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_schedule_24"
+        android:title="Schedule"/>
+
+    <item
+        android:id="@+id/reels"
+        android:enabled="true"
+        android:icon="@drawable/ic_reels"
+        android:title="Reels"/>
+
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_circle_account"
+        android:title="Profile"/>
+
+
+
+</menu>

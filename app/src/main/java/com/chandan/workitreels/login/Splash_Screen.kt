@@ -1,9 +1,10 @@
-package com.chandan.workitreels
+package com.chandan.workitreels.login
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import com.chandan.workitreels.R
 
 class Splash_Screen : AppCompatActivity() {
 
@@ -15,7 +16,7 @@ class Splash_Screen : AppCompatActivity() {
 
         Handler().postDelayed({
 
-            startActivity(Intent(this,MainActivity::class.java))
+            startActivity(Intent(this, LoginSignup::class.java))
             finish()
         }
         ,Splash_Time)

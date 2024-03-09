@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224608578948",
+    "project_id": "workitreels",
+    "storage_bucket": "workitreels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224608578948:android:4cf3acb0b1895ea5cf81d1",
+        "android_client_info": {
+          "package_name": "com.chandan.workitreels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224608578948-oso8tcvn3096qm91rpmcr2sihbne50go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUWe4BYYfqIO6EjRZnP2YfDt3C4NexHwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224608578948-oso8tcvn3096qm91rpmcr2sihbne50go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
